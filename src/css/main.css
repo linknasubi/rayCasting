@@ -1,6 +1,17 @@
-div#container{
+#canvas{
 
     border-style:solid;
     border-width:2px;
-
+    padding: 0;
+    margin: auto;
+    display: block;
+    width:70%
 }
+
+canvas {
+    display: inline;
+ }
+
+ body{
+     background-color: lightgray;
+ }
